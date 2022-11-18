@@ -1,0 +1,64 @@
+{
+  "users": {
+    "userData": [
+      {
+        "email": "abc@gmail.com",
+        "password": "123456",
+        "blogList": [],
+        "id": 1
+      },
+      {
+        "email": "kamlesh@g.com",
+        "password": "1234",
+        "blogList": [],
+        "id": 2
+      },
+      {
+        "email": "sa@g.com",
+        "password": "12345",
+        "blogList": [],
+        "id": 3
+      },
+      {
+        "email": "sasasa@g.com",
+        "password": "123",
+        "blogList": [],
+        "id": 4
+      },
+      {
+        "email": "avsaaa@a.com",
+        "password": "123",
+        "blogList": [],
+        "id": 5
+      },
+      {
+        "email": "kamlesh@gm.com",
+        "password": "123",
+        "blogList": [],
+        "id": 6
+      },
+      {
+        "email": "abc1@gmail.com",
+        "password": "123456",
+        "blogList": [],
+        "id": 7
+      }
+    ]
+  },
+  "userPosts": [
+    {
+      "name": "Lizard2",
+      "image": "https://mui.com/static/images/cards/contemplative-reptile.jpg",
+      "post": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica",
+      "rootUser": "abc@gmail.com",
+      "id": "1668769696353"
+    },
+    {
+      "rootUser": "abc@gmail.com",
+      "id": "1668778172275",
+      "name": "qwqw",
+      "image": "qwqw",
+      "post": "qwqw"
+    }
+  ]
+}
